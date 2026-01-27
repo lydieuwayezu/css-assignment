@@ -1,0 +1,21 @@
+body {
+    background-color: #ffffff;
+}
+
+h1 {
+    color: #1a202c;
+}
+
+img {
+    width: 250px;
+    border-radius: 10px;
+}
+
+.place-box {
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+.text-bold {
+    font-weight: bold;
+}
